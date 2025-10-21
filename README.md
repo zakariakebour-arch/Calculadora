@@ -27,5 +27,4 @@ La calculadora permite realizar operaciones básicas (suma, resta, multiplicaci�
 5. Para corregir un dígito, utiliza el botón de borrar si existe o refresca la página.
 
 ---
-
-##  Estructura del repositorio  
+ 
